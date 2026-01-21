@@ -17,3 +17,5 @@ farmdata2_modules/**/cypress/videos/*
 **/__pycache__
 
 .DS_Store
+
+node_modules
